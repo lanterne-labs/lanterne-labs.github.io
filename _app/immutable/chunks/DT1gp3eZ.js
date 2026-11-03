@@ -1,0 +1,1 @@
+import{r as t}from"./hp4PFHFv.js";const r="".replace(/\/$/,"");function a(e){if(!r||window.location.origin===r)return;const o=window.location.hash;t(302,`${r}${e.pathname}${e.search}${o}`)}export{a as r};

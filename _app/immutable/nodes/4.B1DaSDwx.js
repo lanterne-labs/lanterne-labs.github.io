@@ -1,0 +1,1 @@
+import{r as t}from"../chunks/hp4PFHFv.js";const r=({url:e})=>{t(302,"https://tartuffe.me"+e.pathname+e.search)},a=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{a as universal};
