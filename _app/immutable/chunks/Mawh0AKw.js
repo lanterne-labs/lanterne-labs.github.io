@@ -1,1 +1,0 @@
-const o="presidentielle-2027";function s(n=o){const e=`/election/${encodeURIComponent(n)}`;return{intro:e,vote:`${e}/voter`,how:`${e}/fonctionnement`,verify:`${e}/verifier`,complaint:`${e}/complaint`}}const t=1e3,i=n=>(n??0)>=t;export{o as F,s as e,i as s};

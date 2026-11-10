@@ -1,1 +1,0 @@
-import{r as e}from"../chunks/hp4PFHFv.js";import{F as o}from"../chunks/Mawh0AKw.js";const r=()=>{e(302,`/election/${encodeURIComponent(o)}/voter`)},a=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{a as universal};
