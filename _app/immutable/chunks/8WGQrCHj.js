@@ -1,0 +1,1 @@
+const r="presidentielle-2027";function s(o=r){const n=`/election/${encodeURIComponent(o)}`;return{intro:n,vote:`${n}/voter`,how:`${n}/fonctionnement`,verify:`${n}/verifier`,complaint:`${n}/complaint`}}const e=100;function c(o,n){const t=Math.floor((o??0)/e)*e;return t>0?`${t.toLocaleString(n==="en"?"en-GB":"fr-FR")}+`:null}const i=o=>(o??0)>=e;export{r as F,s as e,i as s,c as v};
